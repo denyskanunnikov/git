@@ -1,6 +1,6 @@
 # Git userfull commands
 
-## Taging
+## Tagging
 ```
 git tag -am "annotation goes here" tagname_goes_here # cut a tag
 git tag -d tagname_goes_here                         # burn it
